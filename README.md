@@ -2,9 +2,10 @@
 Goal driven language generation using knowledge graph A2C agents. This code is accompanies the paper [Graph Constrained Reinforcement Learning for Natural Language Action Spaces](https://openreview.net/forum?id=B1x6w0EtwH).
 
 # Quickstart
-Install Dependencies: Jericho, Redis
+Install Dependencies: Jericho, Redis, Pytorch >= 1.2
 ```bash
 pip3 install --user jericho
+pip3 install torch torchvision
 sudo apt-get install redis-server
 ```
 
