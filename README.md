@@ -1,6 +1,17 @@
 # KG-A2C
 Goal driven language generation using knowledge graph A2C agents. This code is accompanies the paper [Graph Constrained Reinforcement Learning for Natural Language Action Spaces](https://openreview.net/forum?id=B1x6w0EtwH).
 
+Bibtex
+```
+@inproceedings{
+ammanabrolu2020graph,
+title={Graph Constrained Reinforcement Learning for Natural Language Action Spaces},
+author={Prithviraj Ammanabrolu and Matthew Hausknecht},
+booktitle={International Conference on Learning Representations},
+year={2020},
+url={https://openreview.net/forum?id=B1x6w0EtwH}
+}
+```
 # Quickstart
 Install Dependencies: Jericho, Redis, Pytorch >= 1.2
 ```bash
